@@ -8,10 +8,30 @@
 }
 
 body {
-    background-color: rgb(128, 128, 128);
+    background-color:   rgb(255, 255, 255);
     text-align: center;
-}
+    background-image: url(hatter.jpg);
+    }
 
 img {
     max-width: 100%;
+    border: 5px;
+    border-radius: 15px;
+
+}
+
+p {
+  color: #ffffff
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+a {
+    color: white;
 }
